@@ -1,2 +1,2 @@
 # Bubbles-App
-A simple JavaScript project using plain JavaScript and HTML with no third party library.
+The Bubbles App is a simple interactive application built using plain JavaScript and HTML5 Canvas. It features four colorful circles, each with an associated arrow. When a circle is clicked, the arrow animates towards it and changes its color upon contact. Users can reset the application using a button, restoring the original state of the circles and arrows. This project showcases basic animation techniques and event handling in JavaScript.
